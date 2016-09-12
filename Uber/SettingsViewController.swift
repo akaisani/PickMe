@@ -1,7 +1,7 @@
 
 //
 //  SettingsViewController.swift
-//  Uber
+//  PickMe
 //
 //  Created by Abid Amirali on 7/23/16.
 //  Copyright © 2016 Abid Amirali. All rights reserved.

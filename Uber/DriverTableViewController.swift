@@ -1,6 +1,6 @@
 //
 //  DriverTableViewController.swift
-//  Uber
+//  PickMe
 //
 //  Created by Abid Amirali on 7/18/16.
 //  Copyright © 2016 Abid Amirali. All rights reserved.

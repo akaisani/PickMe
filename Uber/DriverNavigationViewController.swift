@@ -1,6 +1,6 @@
 //
 //  RiderLocationViewController.swift
-//  Uber
+//  PickMe
 //
 //  Created by Abid Amirali on 7/21/16.
 //  Copyright © 2016 Abid Amirali. All rights reserved.
